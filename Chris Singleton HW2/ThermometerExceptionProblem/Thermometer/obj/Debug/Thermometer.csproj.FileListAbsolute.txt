@@ -1,0 +1,121 @@
+c:\users\kurt\documents\visual studio 2012\Projects\Thermometer\Thermometer\bin\Debug\Thermometer.exe.config
+c:\users\kurt\documents\visual studio 2012\Projects\Thermometer\Thermometer\bin\Debug\Thermometer.exe
+c:\users\kurt\documents\visual studio 2012\Projects\Thermometer\Thermometer\bin\Debug\Thermometer.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\Thermometer\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2012\Projects\Thermometer\Thermometer\obj\Debug\Thermometer.exe
+c:\users\kurt\documents\visual studio 2012\Projects\Thermometer\Thermometer\obj\Debug\Thermometer.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\Thermometer\Thermometer\bin\Debug\ClassLibrary.dll
+c:\users\kurt\documents\visual studio 2012\Projects\Thermometer\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 OO overview, StaticClass and Ntier\staticCLass\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 OO overview, StaticClass and Ntier\staticCLass\ThermometerSolution\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 OO overview, StaticClass and Ntier\staticCLass\ThermometerSolution\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod04 OO overview, StaticClass and Ntier\staticClass\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod04 OO overview, StaticClass and Ntier\staticClass\ThermometerSolution\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod04 OO overview, StaticClass and Ntier\staticClass\ThermometerSolution\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod04 OO overview, StaticClass and Ntier\staticClass\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod04 OO overview, StaticClass and Ntier\staticClass\ThermometerSolution\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod04 OO overview, StaticClass and Ntier\staticClass\ThermometerSolution\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod04 OO overview, StaticClass and Ntier\staticClass\ThermometerSolution\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod04 OO overview, StaticClass and Ntier\staticClass\ThermometerSolution\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05b static class\ThermometerSolution\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05b static class\ThermometerSolution\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05b static class\ThermometerSolution\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05b static class\ThermometerSolution\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05b static class\ThermometerSolution\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05b static class\ThermometerSolution\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05b static class\ThermometerSolution\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolution\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolution\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolution\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolution\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolution\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolution\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolution\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolutionException\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolutionException\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolutionException\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolutionException\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolutionException\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolutionException\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolutionException\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermometerSolutionException\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerSolutionException\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerSolutionException\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerSolutionException\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05b static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05 static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05 static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05 static class\Homework\ThermoStaticAndException\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Prog 120\Week2\ThermometerExceptionProblem\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Prog 120\Week2\ThermometerExceptionProblem\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Prog 120\Week2\ThermometerExceptionProblem\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Prog 120\Week2\ThermometerExceptionProblem\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe
+C:\Prog 120\Week2\ThermometerExceptionProblem\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.pdb
+C:\Prog 120\Week2\ThermometerExceptionProblem\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Prog 120\Week2\ThermometerExceptionProblem\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Prog 120\Week2\ThermometerExceptionProblem\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\ThermometerExceptionProblem\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\Christopher\Desktop\ThermometerExceptionProblem\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\Christopher\Desktop\ThermometerExceptionProblem\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\Christopher\Desktop\ThermometerExceptionProblem\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\Christopher\Desktop\ThermometerExceptionProblem\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\Christopher\Desktop\ThermometerExceptionProblem\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\ThermometerExceptionProblem\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\Christopher\Desktop\ThermometerExceptionProblem\ThermometerExceptionProblem2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\chris.singleton\Desktop\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Users\Christopher\Desktop\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Users\Christopher\Desktop\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Users\Christopher\Desktop\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe
+C:\Users\Christopher\Desktop\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\Christopher\Desktop\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Users\Christopher\Desktop\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Users\Christopher\Desktop\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.pdb
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe.config
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.exe
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.pdb
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.exe
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\Thermometer.pdb
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.dll
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\bin\Debug\ClassLibrary.pdb
+C:\Prog 120\Week2\Submitted\Chris Singleton HW2\ThermometerExceptionProblem\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
